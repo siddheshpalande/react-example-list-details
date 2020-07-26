@@ -1,0 +1,17 @@
+@import "../styles/variables.scss";
+
+.listItem {
+  width: 95%;
+  height: 2rem;
+  border-bottom: 1px solid $grey-200;
+
+  a {
+    padding: 0.25rem 1rem 0 1rem;
+  }
+}
+
+ul {
+  height: 100%;
+  background: $grey-100;
+  list-style-type: decimal-leading-zero;
+}

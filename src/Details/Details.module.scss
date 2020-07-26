@@ -1,0 +1,19 @@
+@import "../styles/variables.scss";
+
+.navigateBack{
+    display: flex;
+    justify-content: center;
+    margin: 1rem;
+}
+
+.detailsContainer{
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+    border: 1px solid $grey-200;
+    margin: 1rem;
+}
+
+.dataField{
+    margin-left: 16px;
+}
