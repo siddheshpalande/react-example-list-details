@@ -1,5 +1,24 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Highlights of example application
+
+  - [x] react
+  - [x] react-router
+  - [x] CSS Modules
+  - [x] prop-types
+  - [x] flex
+  - [x] react hooks
+  - [x] fetch API
+  - [x] es6 feautres 
+  - [x] sass
+  - [x] Responsive design
+  - [x] modular
+  - [x] code splitting
+
+## ![Netlify Status](https://api.netlify.com/api/v1/badges/b064d07b-fb50-493a-805f-506b8e8182d4/deploy-status)
+
+View live version hosted on Netlify. [see example in action](https://react-list-details-example.netlify.app/)
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -22,18 +41,5 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### Highlights of example application
 
-- [x] react
-- [x] react-router
-- [x] CSS Modules
-- [x] prop-types
-- [x] flex
-- [x] react hooks
-- [x] fetch API
-- [x] es6 feautres 
-- [x] sass
-- [x] Responsive design
-- [x] modular
-- [x] code splitting
 
